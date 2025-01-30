@@ -17,6 +17,14 @@ window.onload = function() {
         cookieBanner.classList.remove("on");
     });
 }
+function grantedStorage() {
+    gtag('consent', 'update', {
+      'ad_storage': 'granted',
+      'ad_user_data': 'granted',
+      'ad_personalization': 'granted',
+      'analytics_storage': 'granted'
+    });
+}
 function cookieCancel() {
     localStorage.removeItem("cookieAllow");
     location.reload(true);
