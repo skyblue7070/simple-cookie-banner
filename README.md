@@ -8,14 +8,16 @@ Keep light web experience with this simple cookie banner!
 
 First, you need to bring in JS and CSS:
 ``` html
+<!-- Copyright (c) 2025 skyblue7070. MIT license is applied to simple-cookie-banner. -->
 <script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner/cookie-action.min.js"></script>
 <link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner/cookie-style.min.css" rel="stylesheet" type="text/css" />
 ```
 
 If you want stable codes:
 ``` html
-<script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.0/cookie-action.js"></script>
-<link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.0/cookie-style.css" rel="stylesheet" type="text/css" />
+<!-- Copyright (c) 2025 skyblue7070. MIT license is applied to simple-cookie-banner. -->
+<script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.1/cookie-action.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.1/cookie-style.css" rel="stylesheet" type="text/css" />
 ```
 
 ## Example

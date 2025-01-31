@@ -1,3 +1,5 @@
+// Copyright (c) 2025 skyblue7070.
+// MIT license is applied to this file.
 window.onload = function() {
     cookieBanner = document.querySelector(".cookie-banner");
     cookieYes = document.querySelector("#cookie-yes");
