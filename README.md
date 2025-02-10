@@ -28,12 +28,14 @@ If you want to make a cookie banner:
   <p>
     This website uses analysis and advertising cookies to enhance your experience.
   </p>
-  <button id="cookie-yes" onclick="grantedStorage" class="cookie-button">
-    Allow all cookies
-  </button>
-  <button id="cookie-no" class="cookie-button">
-    Only necessary
-  </button>
+  <div style="display: flex; justify-content: space-evenly">
+    <button id="cookie-yes" onclick="grantedStorage" class="cookie-button">
+      Allow all cookies
+    </button>
+    <button id="cookie-no" class="cookie-button">
+      Only necessary
+    </button>
+  </div>
 </div>
 ```
 

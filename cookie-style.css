@@ -12,8 +12,8 @@ MIT license is applied to this file. */
     z-index: 2;
     background: #202020;
     color: #F0F0F0;
-    padding: 0 2rem;
-    padding-bottom: 2rem;
+    padding: 0 1rem;
+    padding-bottom: 1rem;
 }
 .cookie-button {
     color: #404040;
