@@ -16,8 +16,8 @@ First, you need to bring in JS and CSS:
 If you want stable codes:
 ``` html
 <!-- Copyright (c) 2025 skyblue7070. MIT license is applied to simple-cookie-banner. -->
-<script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.1/cookie-action.js"></script>
-<link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.1.1/cookie-style.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.2.0/cookie-action.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner@0.2.0/cookie-style.css" rel="stylesheet" type="text/css" />
 ```
 
 ## Example
